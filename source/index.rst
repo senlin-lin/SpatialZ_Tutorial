@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SpatialZ's documentation!
-====================================
-
 Bridging the Dimensional Gap from Planar Spatial Transcriptomics to 3D Cell Atlases
 ====================================================================================
 
