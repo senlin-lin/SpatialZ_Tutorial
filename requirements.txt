@@ -10,4 +10,5 @@ jupyter==1.0.0
 traitlets==5.9.0
 pyzmq==25.1.2
 docutils<0.20
-
+sphinx-copybutton==0.5.2
+myst-parser==0.18.1
